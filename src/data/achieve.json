@@ -1,0 +1,37 @@
+{
+    "achieve": {
+        "subtitle":" WHY DEEPWEB?",
+        "title":"What You'll Achieve by This Book",
+        "image":"assets/images/achieve2.jpg",
+        "achieveItem":[
+            {
+                "id":1,
+                "icon":"assets/icons/dice-multiple.svg",
+                "title":"Motivation",
+                "description":"“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.” "        
+            },
+            {
+                "id":1,
+                "icon":"assets/icons/ebook.svg",
+                "title":"Experience",
+                "description":"“Movements have narratives. They tell stories.because they are not just about rearranging economics and politics. They also rearrange meaning. And they're not about figuring out what is good.” "        
+                
+            },
+            {
+                "id":1,
+                "icon":"assets/icons/goal.svg",
+                "title":"Goals",
+                "description":"“If you want to be happy, set a goal that commands your thoughts, liberates your energy and inspires your hopes.” "        
+                
+            },
+            {
+                "id":1,
+                "icon":"assets/icons/brand-target.svg",
+                "title":"Vision",
+                "description":"“Cultivate your ability to learn from life's rich patterns. You may not be able to establish the curriculum, but you can elect what courses to take at any given time and how to apply your knowledge.” "        
+                
+            }     
+            
+        ]
+    }
+}

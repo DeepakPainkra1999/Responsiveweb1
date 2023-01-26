@@ -1,0 +1,40 @@
+{
+    "footer":{
+        "name":" DeepWeb",
+        "icon":"assets/icons/heart.svg",
+        "menu":[
+            {
+                "link":"hero",
+                "title":"Home"
+            },
+            {
+                "link":"benefits",
+                "title":"Benefits"
+            },
+            {
+                "link":"chapter",
+                "title":"Chapter"
+            },
+            {
+                "link":"pricing",
+                "title":"Pricing"
+            },
+            {
+                "link":"author",
+                "title":"Author"
+            },
+            {
+                "link":"achievement",
+                "title":"Achievement"
+            },
+            {
+                "link":"review",
+                "title":"Review"
+            },
+            {
+                "link":"contact",
+                "title":"Contact"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "chapterPreview":{
+        "subtitle":"Chapter Preview",
+        "title":"Read Some Chapter Free",
+        "chapters":[
+            {
+                "image":"/assets/images/chapter-preview/1.jpg",
+                "title":"The Beginning",
+                "text1":"Dorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+                "text2":"Est natus alias ad corporis animi eum modi suscipit qui ullam totam est cupiditate delectus. Sed deleniti ratione aut cupiditate earum in molestias tenetur. Est placeat laudantium cum eaque corporis nam facere itaque est repellat iusto aut nihil enim a repellat praesentium qui recusandae incidunt!",
+                "text3":"Sed fugit omnis eos voluptate nisi quo quia ipsum qui quas sunt et incidunt blanditiis aut molestiae consectetur. Vel officiis distinctio aut officia omnis et blanditiis saepe est dicta dolorum non officiis molestias.",
+                "text4":"Est odio sunt ut quisquam cumque sit quia laboriosam nam veniam nesciunt! Aut nostrum inventore et laboriosam officia et voluptatum sint est quas perspiciatis et corporis sint quo fuga possimus. Et provident enim At voluptas eius qui illum ratione ex omnis voluptates 33 sunt explicabo rem neque voluptatem? Non quibusdam voluptatem et corporis officiis et dolorem natus cum voluptas reprehenderit et sequi dolorem ea culpa asperiores 33 debitis tempore.",
+                "text5":"Non cupiditate molestiae ut rerum architecto ad reiciendis rerum sed quas dolores et accusamus sequi est tenetur ullam in sint itaque. Aut earum debitis ut ipsa culpa est dignissimos eius. Est iure quasi qui cupiditate iure aut perspiciatis galisum a molestias iusto et sint inventore. Ut ducimus voluptatem non reiciendis ipsam sit repellendus praesentium nam omnis sunt."
+            },
+            {
+                "image":"/assets/images/chapter-preview/2.jpg",
+                "title":"Main Story",
+                "text1":"Dorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+                "text2":"Est natus alias ad corporis animi eum modi suscipit qui ullam totam est cupiditate delectus. Sed deleniti ratione aut cupiditate earum in molestias tenetur. Est placeat laudantium cum eaque corporis nam facere itaque est repellat iusto aut nihil enim a repellat praesentium qui recusandae incidunt!",
+                "text3":"Sed fugit omnis eos voluptate nisi quo quia ipsum qui quas sunt et incidunt blanditiis aut molestiae consectetur. Vel officiis distinctio aut officia omnis et blanditiis saepe est dicta dolorum non officiis molestias.",
+                "text4":"Est odio sunt ut quisquam cumque sit quia laboriosam nam veniam nesciunt! Aut nostrum inventore et laboriosam officia et voluptatum sint est quas perspiciatis et corporis sint quo fuga possimus. Et provident enim At voluptas eius qui illum ratione ex omnis voluptates 33 sunt explicabo rem neque voluptatem? Non quibusdam voluptatem et corporis officiis et dolorem natus cum voluptas reprehenderit et sequi dolorem ea culpa asperiores 33 debitis tempore.",
+                "text5":"Non cupiditate molestiae ut rerum architecto ad reiciendis rerum sed quas dolores et accusamus sequi est tenetur ullam in sint itaque. Aut earum debitis ut ipsa culpa est dignissimos eius. Est iure quasi qui cupiditate iure aut perspiciatis galisum a molestias iusto et sint inventore. Ut ducimus voluptatem non reiciendis ipsam sit repellendus praesentium nam omnis sunt."
+            },
+            {
+                "image":"/assets/images/chapter-preview/3.jpg",
+                "title":"Story Part-03",
+                "text1":"Dorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+                "text2":"Est natus alias ad corporis animi eum modi suscipit qui ullam totam est cupiditate delectus. Sed deleniti ratione aut cupiditate earum in molestias tenetur. Est placeat laudantium cum eaque corporis nam facere itaque est repellat iusto aut nihil enim a repellat praesentium qui recusandae incidunt!",
+                "text3":"Sed fugit omnis eos voluptate nisi quo quia ipsum qui quas sunt et incidunt blanditiis aut molestiae consectetur. Vel officiis distinctio aut officia omnis et blanditiis saepe est dicta dolorum non officiis molestias.",
+                "text4":"Est odio sunt ut quisquam cumque sit quia laboriosam nam veniam nesciunt! Aut nostrum inventore et laboriosam officia et voluptatum sint est quas perspiciatis et corporis sint quo fuga possimus. Et provident enim At voluptas eius qui illum ratione ex omnis voluptates 33 sunt explicabo rem neque voluptatem? Non quibusdam voluptatem et corporis officiis et dolorem natus cum voluptas reprehenderit et sequi dolorem ea culpa asperiores 33 debitis tempore.",
+                "text5":"Non cupiditate molestiae ut rerum architecto ad reiciendis rerum sed quas dolores et accusamus sequi est tenetur ullam in sint itaque. Aut earum debitis ut ipsa culpa est dignissimos eius. Est iure quasi qui cupiditate iure aut perspiciatis galisum a molestias iusto et sint inventore. Ut ducimus voluptatem non reiciendis ipsam sit repellendus praesentium nam omnis sunt."
+            },
+            {
+                "image":"/assets/images/chapter-preview/4.jpg",
+                "title":"Description-04",
+                "text1":"Dorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+                "text2":"Est natus alias ad corporis animi eum modi suscipit qui ullam totam est cupiditate delectus. Sed deleniti ratione aut cupiditate earum in molestias tenetur. Est placeat laudantium cum eaque corporis nam facere itaque est repellat iusto aut nihil enim a repellat praesentium qui recusandae incidunt!",
+                "text3":"Sed fugit omnis eos voluptate nisi quo quia ipsum qui quas sunt et incidunt blanditiis aut molestiae consectetur. Vel officiis distinctio aut officia omnis et blanditiis saepe est dicta dolorum non officiis molestias.",
+                "text4":"Est odio sunt ut quisquam cumque sit quia laboriosam nam veniam nesciunt! Aut nostrum inventore et laboriosam officia et voluptatum sint est quas perspiciatis et corporis sint quo fuga possimus. Et provident enim At voluptas eius qui illum ratione ex omnis voluptates 33 sunt explicabo rem neque voluptatem? Non quibusdam voluptatem et corporis officiis et dolorem natus cum voluptas reprehenderit et sequi dolorem ea culpa asperiores 33 debitis tempore.",
+                "text5":"Non cupiditate molestiae ut rerum architecto ad reiciendis rerum sed quas dolores et accusamus sequi est tenetur ullam in sint itaque. Aut earum debitis ut ipsa culpa est dignissimos eius. Est iure quasi qui cupiditate iure aut perspiciatis galisum a molestias iusto et sint inventore. Ut ducimus voluptatem non reiciendis ipsam sit repellendus praesentium nam omnis sunt."
+            },
+            {
+                "image":"/assets/images/chapter-preview/5.jpg",
+                "title":"Story No:05",
+                "text1":"Dorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+                "text2":"Est natus alias ad corporis animi eum modi suscipit qui ullam totam est cupiditate delectus. Sed deleniti ratione aut cupiditate earum in molestias tenetur. Est placeat laudantium cum eaque corporis nam facere itaque est repellat iusto aut nihil enim a repellat praesentium qui recusandae incidunt!",
+                "text3":"Sed fugit omnis eos voluptate nisi quo quia ipsum qui quas sunt et incidunt blanditiis aut molestiae consectetur. Vel officiis distinctio aut officia omnis et blanditiis saepe est dicta dolorum non officiis molestias.",
+                "text4":"Est odio sunt ut quisquam cumque sit quia laboriosam nam veniam nesciunt! Aut nostrum inventore et laboriosam officia et voluptatum sint est quas perspiciatis et corporis sint quo fuga possimus. Et provident enim At voluptas eius qui illum ratione ex omnis voluptates 33 sunt explicabo rem neque voluptatem? Non quibusdam voluptatem et corporis officiis et dolorem natus cum voluptas reprehenderit et sequi dolorem ea culpa asperiores 33 debitis tempore.",
+                "text5":"Non cupiditate molestiae ut rerum architecto ad reiciendis rerum sed quas dolores et accusamus sequi est tenetur ullam in sint itaque. Aut earum debitis ut ipsa culpa est dignissimos eius. Est iure quasi qui cupiditate iure aut perspiciatis galisum a molestias iusto et sint inventore. Ut ducimus voluptatem non reiciendis ipsam sit repellendus praesentium nam omnis sunt."
+            }
+
+        ]
+    },
+    "chapterPreview2":{
+        "title":"Chapter Preview",
+        "subtitle":"Read some chapter free",
+        "chapters":[
+            {
+                "title":"Chapter 1",
+                "image":"/assets/images/chapter-preview/6.png"
+            },
+            {
+                "title":"Chapter 2",
+                "image":"/assets/images/chapter-preview/7.png"
+            },
+            {
+                "title":"Chapter 3",
+                "image":"/assets/images/chapter-preview/8.png"
+            },
+            {
+                "title":"Chapter 4",
+                "image":"/assets/images/chapter-preview/9.png"
+            },
+            {
+                "title":"Chapter 1",
+                "image":"/assets/images/chapter-preview/10.png"
+            }
+        ]
+    }
+}

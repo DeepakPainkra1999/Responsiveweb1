@@ -1,0 +1,15 @@
+.authorv2_list {
+    margin-bottom: 0px;
+}
+
+.authorv2_image {
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    background-color: #c27b7f;
+    border-radius: 5px;
+}
+
+.authorv2_image img {
+    border-radius: 5px;
+}

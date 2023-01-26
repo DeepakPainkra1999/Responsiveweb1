@@ -1,0 +1,44 @@
+{
+    "testimonial":{
+        "title":"What people said about my books",
+        "subtitle":"TESTIMONIALS",
+        "testimonialsItem":[
+            {
+                "id":1,
+                "name":"Deep Singh",
+                "title":"DEEPWEB Customer",
+                "image":"./assets/images/DS3-modified.png",
+                "description":"Lorem ipsum dolor sit amet. Quo omnis cupiditate aut cumque quos qui earum incidunt ut culpa molestias? Eum nesciunt enim hic ipsum veniam et commodi veritatis eos Quis ullam ut architecto nisi."
+            },
+            {
+                "id":2,
+                "name":"Anil Singh",
+                "title":"DEEPWEB Customer",
+                "image":"./assets/images/IMG_9753-modified.png",
+                "description":"Lorem ipsum dolor sit amet. Quo omnis cupiditate aut cumque quos qui earum incidunt ut culpa molestias? Eum nesciunt enim hic ipsum veniam et commodi veritatis eos Quis ullam ut architecto nisi."
+            },
+            {
+                "id":3,
+                "name":"Heera Singh",
+                "title":"DEEPWEB Customer",
+                "image":"./assets/images/heera.png",
+                "description":"Lorem ipsum dolor sit amet. Quo omnis cupiditate aut cumque quos qui earum incidunt ut culpa molestias? Eum nesciunt enim hic ipsum veniam et commodi veritatis eos Quis ullam ut architecto nisi."
+            },
+            {
+                "id":4,
+                "name":"Upendra Singh",
+                "title":"DEEPWEB Customer",
+                "image":"./assets/images/uppu.png",
+                "description":"Lorem ipsum dolor sit amet. Quo omnis cupiditate aut cumque quos qui earum incidunt ut culpa molestias? Eum nesciunt enim hic ipsum veniam et commodi veritatis eos Quis ullam ut architecto nisi."
+            },
+            {
+                "id":5,
+                "name":"Harsita Singh",
+                "title":"DEEPWEB Customer",
+                "image":"./assets/images/harsita.png",
+                "description":"Lorem ipsum dolor sit amet. Quo omnis cupiditate aut cumque quos qui earum incidunt ut culpa molestias? Eum nesciunt enim hic ipsum veniam et commodi veritatis eos Quis ullam ut architecto nisi."
+            }
+
+        ]
+    }
+}

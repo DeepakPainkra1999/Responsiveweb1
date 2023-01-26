@@ -1,0 +1,67 @@
+.counters_stats li {
+    list-style: none;
+    width: 20%;
+    padding: 0 15px;
+    margin-bottom: 40px;
+}
+
+@media only screen and (max-width:1199px){
+    .counters_stats li {
+        width: 33.333%;
+    }
+}
+
+@media only screen and (max-width:991px){
+    .counters_stats li {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .counters_stats li{
+        width: 100%;
+    }
+}
+
+.counters_stats-box {
+    background-color: #f5ebe6;
+    width: 100%;
+    height: 100%;
+    padding: 70px 30px 30px;
+    position: relative;
+    box-shadow: 5px 5px #876585;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.counters_stats-box:hover {
+    box-shadow: none;
+}
+
+@media only screen and (max-width:767px){
+    .counters_stats-box {
+        padding: 30px 30px;
+    }
+}
+
+.counters_stats-box_number {
+    font-size: 48px;
+    color: #876585;
+    font-weight: 700;
+}
+
+.counters_stats-icon {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    opacity: 0.3;
+}
+
+.counters_stats-icon svg {
+    color: #c27b7f;
+    opacity: 0.5;
+}
+
+.bg-one .counters_stats-box {
+    background-color: #fff;
+}

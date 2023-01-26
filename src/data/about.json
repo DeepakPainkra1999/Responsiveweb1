@@ -1,0 +1,35 @@
+{
+    "aboutv2":{
+        "subtitle":"Learn about the book writer",
+        "title":"ABOUT AUTHOR",
+        "image":"assets/images/achive.png",
+        "videoURL":"https://www.youtube.com/",
+        "description":"Based on wikipedia, Learn about the book writer a s d f g h jk  l",
+        "userinfo":[
+            {
+                "title":"Name:",
+                "subtitle":"Deep Singh Painkra"
+            },
+            {
+                "title":"Born:",
+                "subtitle":"06.10.1999"
+            },
+            {
+                "title":"Country:",
+                "subtitle":"India"
+            },
+            {
+                "title":"Email ID:",
+                "subtitle":"deepakpainkra99@gmail.com"
+            },
+            {
+                "title":"Language",
+                "subtitle":"English, Hindi"
+            },
+            {
+                "title":"Address",
+                "subtitle":"Mainpat, surguja (C.G),India"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+.achieve_icon {
+    width: 60px;
+    height: 60px;
+    background-color: #c27b7f;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 3px #876585;
+    transition: 0.3s;
+    font-size: 35px;
+}
+
+.achieve_image {
+    position: relative;
+    width: 100%;
+    padding-left: 20px;
+}
+
+.achieve_image::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 20px;
+    z-index: 1;
+    background-color: #c27b7f;
+    border-radius: inherit;
+    height: 100%;
+    width: 90%;
+    border-radius: 5px;
+}
+
+.achieve_image img {
+    position: relative;
+    width: 95%;
+    z-index: 2;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width:991){
+    .achieve_image img {
+        width:100%;
+    }
+    .achieve_content {
+        margin-top:30px;
+    }
+}
+
+.achieve_content_item {
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 2px 0px 15px 5px rgba(1,6,33,0.03);
+    background-color: #fff;
+}
+
+@media only screen and (max-width:991px){
+    .achieve_content_item {
+        padding: 20px;
+    }
+    
+}
+
+.achieve_content_item:hover{
+    background-color: #c27b7f;
+    color: #fff;
+}
+
+.achieve_content_item:hover h3 {
+    color: #fff;
+}
+
+.achieve_content_item:hover .achieve_icon {
+    border-radius: 62% 38% 46% 54%/60% 63% 37% 40%;
+    background-color: #876585;
+    box-shadow: 3px 3px #fcb0b4;
+}
+
+.achieve_content_item p {
+    margin-bottom: 0;
+}

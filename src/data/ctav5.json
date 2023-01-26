@@ -1,0 +1,24 @@
+{
+    "ctav3":{
+        "title1":"Do you have a question?",
+        "title2":"Feel free to contact me.",
+        "number":"7999593391",
+        "btnText":"send me a message"
+    },
+    "ctav4":{
+        "backgroundImage":"assets/images/ctav4.jpg",
+        "title":"Watch the video",
+        "subtitle":"to see our readers love it.",
+        "text":"Still have any doubts? check the free chapter to get an idea",
+        "btnText":"Free chapters",
+        "videoURL":"https://www.youtube.com"
+    },
+    "ctav5":{
+        "backgroundImage":"assets/images/ctav5.jpg",
+        "title":"The book has 5000+ readers",
+        "text1":"Readers reviews",
+        "text2":"in self explanatory 5/5",
+        "icon":"assets/icons/star.svg"
+    }
+   
+}

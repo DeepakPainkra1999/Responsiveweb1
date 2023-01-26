@@ -1,0 +1,68 @@
+{
+    "pricing":{
+        "subtitle":"Pricing based on their version",
+        "title":"PRICING",
+        "pricingItem":[
+            {
+                "title":"E-Book",
+                "price":"Rs 500/-",
+                "card":"active",
+                "btnText":"BUY NOW",
+                "feature":[
+                    {
+                        "item":"Complete Book"
+                    },
+                    {
+                       "item":"PDF and EPUB" 
+                    },
+                    {
+                        "item":"Hardcover Book"
+                    },
+                    {
+                        "item":"Access to Downloads"
+                    }
+                ]
+            },
+            {
+                "title":"Bundle",
+                "price":"Rs 900/-",
+                "card":"active",
+                "btnText":"BUY NOW",
+                "feature":[
+                    {
+                        "item":"Complete Book"
+                    },
+                    {
+                       "item":"PDF and EPUB" 
+                    },
+                    {
+                        "item":"Hardcover Book"
+                    },
+                    {
+                        "item":"Access to Downloads"
+                    }
+                ]
+            },
+            {
+                "title":"Hardcover",
+                "price":"Rs 1200/-",
+                "card":"active",
+                "btnText":"BUY NOW",
+                "feature":[
+                    {
+                        "item":"Complete Book"
+                    },
+                    {
+                       "item":"PDF and EPUB" 
+                    },
+                    {
+                        "item":"Hardcover Book"
+                    },
+                    {
+                        "item":"Access to Downloads"
+                    }
+                ]
+            }
+        ]
+    }
+}
